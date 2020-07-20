@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a63fafb.chunk.css",
+    "main.js": "/static/js/main.51253212.chunk.js",
+    "main.js.map": "/static/js/main.51253212.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53f9a9c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53f9a9c2.js.map",
+    "static/js/2.bb9ed2c7.chunk.js": "/static/js/2.bb9ed2c7.chunk.js",
+    "static/js/2.bb9ed2c7.chunk.js.map": "/static/js/2.bb9ed2c7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.db4644f81d6139b218ede4c6fdc702a5.js": "/precache-manifest.db4644f81d6139b218ede4c6fdc702a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a63fafb.chunk.css.map": "/static/css/main.0a63fafb.chunk.css.map",
+    "static/js/2.bb9ed2c7.chunk.js.LICENSE.txt": "/static/js/2.bb9ed2c7.chunk.js.LICENSE.txt",
+    "static/media/avataaars.png": "/static/media/avataaars.42c52669.png",
+    "static/media/battleship.png": "/static/media/battleship.54e25c34.png",
+    "static/media/bg_genertor.png": "/static/media/bg_genertor.f53674ae.png",
+    "static/media/bob.png": "/static/media/bob.fd789480.png",
+    "static/media/calc.png": "/static/media/calc.6ab1b207.png",
+    "static/media/drummachine.png": "/static/media/drummachine.96f192a0.png",
+    "static/media/landing.png": "/static/media/landing.91494c5b.png",
+    "static/media/lifelong.png": "/static/media/lifelong.a09caace.png",
+    "static/media/loulogo.png": "/static/media/loulogo.94bf2511.png",
+    "static/media/markup.png": "/static/media/markup.5f32cb90.png",
+    "static/media/moriak.png": "/static/media/moriak.fae5909f.png",
+    "static/media/pomodoro.png": "/static/media/pomodoro.8d88f3f6.png",
+    "static/media/quotemachine.png": "/static/media/quotemachine.c19e3939.png",
+    "static/media/s-list.png": "/static/media/s-list.3bd04b54.png",
+    "static/media/scratch.png": "/static/media/scratch.e8c1014e.png",
+    "static/media/trivia.png": "/static/media/trivia.07dc0425.png",
+    "static/media/weather.png": "/static/media/weather.59c777c9.png",
+    "static/media/weryk.png": "/static/media/weryk.d30035f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53f9a9c2.js",
+    "static/js/2.bb9ed2c7.chunk.js",
+    "static/css/main.0a63fafb.chunk.css",
+    "static/js/main.51253212.chunk.js"
+  ]
+}
